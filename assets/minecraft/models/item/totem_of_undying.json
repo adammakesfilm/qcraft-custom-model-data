@@ -1,0 +1,17 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/totem_of_undying"
+  },
+  "overrides": [
+	{ "predicate": {"custom_model_data": 1}, "model": "misc/totem/totem_small" },
+	{ "predicate": {"custom_model_data": 2}, "model": "misc/totem/iron_hide_amulet" },
+	{ "predicate": {"custom_model_data": 3}, "model": "misc/totem/love_medalion" },
+	{ "predicate": {"custom_model_data": 4}, "model": "misc/totem/soul_healer" },
+	{ "predicate": {"custom_model_data": 5}, "model": "misc/totem/soul_lantern" },
+	{ "predicate": {"custom_model_data": 6}, "model": "misc/totem/totem_of_regeneration" },
+	{ "predicate": {"custom_model_data": 7}, "model": "misc/totem/totem_of_shielding" },
+	{ "predicate": {"custom_model_data": 8}, "model": "misc/totem/crewmate" }
+
+	  ]
+}

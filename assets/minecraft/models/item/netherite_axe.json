@@ -1,0 +1,12 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/netherite_axe"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1},"model": "tools/axe/netherite_edge"},
+    {"predicate": {"custom_model_data": 2},"model": "tools/axe/superstorm"},
+    {"predicate": {"custom_model_data": 3},"model": "tools/axe/firebrand"},
+    {"predicate": {"custom_model_data": 4},"model": "tools/axe/mushroom_masher"}
+  ]
+}

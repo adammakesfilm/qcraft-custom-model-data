@@ -1,0 +1,13 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/netherite_pickaxe"
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 1},"model": "tools/pick/geode_gavel"},
+  {"predicate": {"custom_model_data": 2},"model": "tools/pick/polaroid_hammer"},
+  {"predicate": {"custom_model_data": 3},"model": "tools/pick/warden_slayer"},
+  {"predicate": {"custom_model_data": 4},"model": "tools/pick/driller_night"},
+  {"predicate": {"custom_model_data": 5},"model": "tools/pick/drill"}
+	  ]
+}

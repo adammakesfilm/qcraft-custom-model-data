@@ -1,0 +1,12 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/netherite_shovel"
+  },
+  "overrides": [
+	{"predicate": {"custom_model_data": 1},"model": "tools/shovel/spoon"},
+	{"predicate": {"custom_model_data": 2},"model": "tools/shovel/nature_growth"},
+	{"predicate": {"custom_model_data": 3},"model": "tools/shovel/trowel"},
+	{"predicate": {"custom_model_data": 4},"model": "tools/shovel/battle_shovel"}
+  ]
+}
