@@ -1,3 +1,11 @@
+<p align="center">
+THIS REPO IS NOT LONGER UPDATED
+</p>
+<p align="center">
+<a href="https://github.com/adammakesfilm"><img alt="Repo is no longer updated" src="https://img.shields.io/github/last-commit/adammakesfilm/qcraft-custom-model-data?color=red&style=for-the-badge">
+</p>
+
+---
 
 # Q-Craft Custom Model Data
 This is a resource pack created for the Q-Craft SMP allowing them to add custom items and models to the game without having to mod  the game using Minecraft's [Custom Model Data](https://www.youtube.com/watch?v=HrFMdcjonyo) feature
