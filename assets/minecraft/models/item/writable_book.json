@@ -4,35 +4,10 @@
     "layer0": "minecraft:item/writable_book"
   },
   "overrides": [
-    {
-      "predicate": {
-        "custom_model_data": 1
-      },
-      "model": "item/book/dark_book_writable"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 2
-      },
-      "model": "item/book/diamond_book_writable"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 3
-      },
-      "model": "item/book/magic_book_writable"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 4
-      },
-      "model": "item/book/nature_book_writable"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 5
-      },
-      "model": "item/book/redstone_book_writable"
-    }
+    {"predicate": {"custom_model_data": 1},"model": "item/book/dark_book_writable"},
+    {"predicate": {"custom_model_data": 2},"model": "item/book/diamond_book_writable"},
+    {"predicate": {"custom_model_data": 3},"model": "item/book/magic_book_writable"},
+    {"predicate": {"custom_model_data": 4},"model": "item/book/nature_book_writable"},
+    {"predicate": {"custom_model_data": 5},"model": "item/book/redstone_book_writable"}
   ]
 }

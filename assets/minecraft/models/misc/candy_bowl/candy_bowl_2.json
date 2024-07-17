@@ -1,7 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "misc/candy_bowl/candy_bowl_1",
-	"textures": {
-		"1_0": "misc/candy_bowl/candy_bowl_2"
-	}
-}
