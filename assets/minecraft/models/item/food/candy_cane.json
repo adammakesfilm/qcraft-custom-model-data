@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "item/food/marshmallo"
+      "layer0": "item/food/candy_cane"
     }
-  }
+  } 

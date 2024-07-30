@@ -1,7 +1,4 @@
 <p align="center">
-THIS REPO IS NOT LONGER UPDATED
-</p>
-<p align="center">
 <a href="https://github.com/adammakesfilm"><img alt="Repo is no longer updated" src="https://img.shields.io/github/last-commit/adammakesfilm/qcraft-custom-model-data?color=red&style=for-the-badge">
 </p>
 
@@ -21,7 +18,6 @@ This is a resource pack created for the Q-Craft SMP allowing them to add custom 
 
 ## Acknowledgements
 
- - [Weapons from Sea of Pixels' resource pack: **New Default+**](https://powerups4u.wixsite.com/seaofpixels/downloads)
  - [Custom Model Data Modifier Datapack by Mukitanuki](https://www.curseforge.com/minecraft/customization/custom-roleplay-data-datapack)
 
 
