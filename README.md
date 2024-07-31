@@ -14,6 +14,6 @@ To use, click the green `<> Code` button, then select download ZIP. Put that ZIP
 
 ## Acknowledgements
 
- - [Custom Model Data Modifier Datapack by Mukitanuki](https://www.curseforge.com/minecraft/customization/custom-roleplay-data-datapack)
+ - We use the [Custom Model Data Modifier Datapack by Mukitanuki](https://www.curseforge.com/minecraft/customization/custom-roleplay-data-datapack) to use these models in survival. 
 
 
