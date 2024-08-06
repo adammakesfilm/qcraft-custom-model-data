@@ -1,11 +1,7 @@
-<p align="center">
-<a href="https://github.com/adammakesfilm"><img alt="Repo is no longer updated" src="https://img.shields.io/github/last-commit/adammakesfilm/qcraft-custom-model-data?color=red&style=for-the-badge">
-</p>
-
----
-
 # Q-Craft Custom Model Data
 This is a resource pack created for the Q-Craft SMP allowing them to add custom items and models to the game without having to mod  the game using Minecraft's [Custom Model Data](https://www.youtube.com/watch?v=HrFMdcjonyo) feature
+
+To use, click the green `<> Code` button, then select download ZIP. Put that ZIP file into your resource pack folder and enable it on Minecraft. You do not need to unzip the pack. 
 
 ## Screenshots
 
@@ -18,6 +14,6 @@ This is a resource pack created for the Q-Craft SMP allowing them to add custom 
 
 ## Acknowledgements
 
- - [Custom Model Data Modifier Datapack by Mukitanuki](https://www.curseforge.com/minecraft/customization/custom-roleplay-data-datapack)
+ - We use the [Custom Model Data Modifier Datapack by Mukitanuki](https://www.curseforge.com/minecraft/customization/custom-roleplay-data-datapack) to use these models in survival. 
 
 
