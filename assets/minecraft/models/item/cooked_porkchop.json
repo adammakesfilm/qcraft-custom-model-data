@@ -4,14 +4,13 @@
         "layer0": "minecraft:item/cooked_porkchop"
     }, 
     "overrides": [
-        { "predicate": {"custom_model_data": 0}, "model": "item/cooked_porkchop"},
-        { "predicate": {"custom_model_data": 1}, "model": "item/food/apple_pie"},
-        { "predicate": {"custom_model_data": 2}, "model": "item/food/sweet_berry_cookie"},
-        { "predicate": {"custom_model_data": 3}, "model": "item/food/bucket_of_chicken"},
-        { "predicate": {"custom_model_data": 4}, "model": "item/food/sweet_berry_pie"},
-        { "predicate": {"custom_model_data": 5}, "model": "item/food/caramel_apple"},
-        { "predicate": {"custom_model_data": 6}, "model": "item/food/candy_apple"},
-        { "predicate": {"custom_model_data": 7}, "model": "item/food/green_apple"},
-        { "predicate": {"custom_model_data": 8}, "model": "item/food/candy_cane"}
+        { "predicate": {"custom_model_data": 1}, "model": "custom/food/apple_pie"},
+        { "predicate": {"custom_model_data": 2}, "model": "custom/food/sweet_berry_cookie"},
+        { "predicate": {"custom_model_data": 3}, "model": "custom/food/bucket_of_chicken"},
+        { "predicate": {"custom_model_data": 4}, "model": "custom/food/sweet_berry_pie"},
+        { "predicate": {"custom_model_data": 5}, "model": "custom/food/caramel_apple"},
+        { "predicate": {"custom_model_data": 6}, "model": "custom/food/candy_apple"},
+        { "predicate": {"custom_model_data": 7}, "model": "custom/food/green_apple"},
+        { "predicate": {"custom_model_data": 8}, "model": "custom/food/candy_cane"}
     ]
 }
