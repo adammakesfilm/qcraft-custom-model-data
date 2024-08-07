@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"1": "item/tools/fire_greataxe",
-		"particle": "item/tools/fire_greataxe"
+		"1": "item/tools/axe/fire_greataxe",
+		"particle": "item/tools/axe/fire_greataxe"
 	},
 	"elements": [
 		{

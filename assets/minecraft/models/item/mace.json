@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/mace"
   },
   "overrides": [
-        {"predicate": {"custom_model_data": 1},"model": "custom/tools/iron_greataxe"}
+        {"predicate": {"custom_model_data": 1},"model": "custom/tools/mace/stormlander"},
+        {"predicate": {"custom_model_data": 2},"model": "custom/tools/mace/bonehead"}
   ]
 }

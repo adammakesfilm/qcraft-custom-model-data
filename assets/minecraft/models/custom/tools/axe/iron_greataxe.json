@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "item/tools/iron_greataxe",
-		"particle": "item/tools/iron_greataxe"
+		"0": "item/tools/axe/iron_greataxe",
+		"particle": "item/tools/axe/iron_greataxe"
 	},
 	"elements": [
 		{
