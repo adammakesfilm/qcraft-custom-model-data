@@ -1,6 +1,0 @@
-{
-    "parent": "item/crossbow",
-    "textures": {
-        "layer0": "item/tools/crossbow/voidcaller/voidcaller_0"
-	}
-}

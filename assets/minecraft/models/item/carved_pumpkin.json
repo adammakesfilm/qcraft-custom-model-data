@@ -1,9 +1,9 @@
 {
   "parent": "minecraft:block/carved_pumpkin",
   "overrides": [
-    {"predicate": {"custom_model_data": 1},"model": "custom/hats/players/rubberduck"},
-    {"predicate": {"custom_model_data": 2},"model": "custom/hats/players/sombrero"},
-    {"predicate": {"custom_model_data": 3},"model": "custom/hats/players/mining_helmet"},
-    {"predicate": {"custom_model_data": 4},"model": "custom/hats/misc/flower_crown"}
+    {"predicate": {"custom_model_data": 1},"model": "custom:hats/players/rubberduck"},
+    {"predicate": {"custom_model_data": 2},"model": "custom:hats/players/sombrero"},
+    {"predicate": {"custom_model_data": 3},"model": "custom:hats/players/mining_helmet"},
+    {"predicate": {"custom_model_data": 4},"model": "custom:hats/misc/flower_crown"}
   ]
 }

@@ -43,13 +43,13 @@
     "overrides": [
         { "predicate": {"blocking": 1 }, "model": "item/shield_blocking" },
 
-		{ "predicate": {"custom_model_data": 1}, "model":"custom/tools/shield/bamboo_shield"},
-        { "predicate": {"custom_model_data": 1, "blocking": 1}, "model": "custom/tools/shield/bamboo_shield_block"},
+		{ "predicate": {"custom_model_data": 1}, "model":"custom:tools/shield/bamboo_shield"},
+        { "predicate": {"custom_model_data": 1, "blocking": 1}, "model": "custom:tools/shield/bamboo_shield_block"},
 
-        { "predicate": {"custom_model_data": 2}, "model":"custom/tools/shield/amethyst_shield"},
-        { "predicate": {"custom_model_data": 2, "blocking": 1}, "model": "custom/tools/shield/amethyst_shield_block"},
+        { "predicate": {"custom_model_data": 2}, "model":"custom:tools/shield/amethyst_shield"},
+        { "predicate": {"custom_model_data": 2, "blocking": 1}, "model": "custom:tools/shield/amethyst_shield_block"},
 
-        { "predicate": {"custom_model_data": 3}, "model":"custom/tools/shield/shield_target"},
-        { "predicate": {"custom_model_data": 3, "blocking": 1}, "model": "custom/tools/shield/shield_target_block"}
+        { "predicate": {"custom_model_data": 3}, "model":"custom:tools/shield/shield_target"},
+        { "predicate": {"custom_model_data": 3, "blocking": 1}, "model": "custom:tools/shield/shield_target_block"}
     ]
 }
