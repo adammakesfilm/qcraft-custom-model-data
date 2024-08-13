@@ -6,6 +6,7 @@
   "overrides": [
     {"predicate": {"custom_model_data": 1}, "model": "custom:item/trophy/trophy_gold"},
     {"predicate": {"custom_model_data": 2}, "model": "custom:item/trophy/trophy_copper"},
-    {"predicate": {"custom_model_data": 3}, "model": "custom:item/trophy/trophy_iron"}
+    {"predicate": {"custom_model_data": 3}, "model": "custom:item/trophy/trophy_iron"},
+    {"predicate": {"custom_model_data": 4}, "model": "custom:structure/lamp_post"}
   ]
 }
