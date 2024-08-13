@@ -18,6 +18,6 @@ Visit the [Q-Craft Mega List](https://docs.google.com/spreadsheets/d/1ND0EXUEXGh
 We use the [Custom Model Data Modifier Datapack by Mukitanuki](https://www.curseforge.com/minecraft/customization/custom-roleplay-data-datapack) to use these models in survival.
 
 **Models and Textures have been pulled from the following resource packs:**
-[Fantasy 3D Weapons by Nongko](https://modrinth.com/resourcepack/fantasy-3d-weapons-cit)
-[MCD Weapons and Tools by Dipa98](https://modrinth.com/resourcepack/mcdwt)
-[Better Vanilla Building](https://bettervanillabuilding.com/)
+- [Fantasy 3D Weapons by Nongko](https://modrinth.com/resourcepack/fantasy-3d-weapons-cit)
+- [MCD Weapons and Tools by Dipa98](https://modrinth.com/resourcepack/mcdwt)
+- [Better Vanilla Building](https://bettervanillabuilding.com/)
