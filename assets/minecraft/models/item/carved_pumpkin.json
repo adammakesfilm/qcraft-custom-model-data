@@ -5,11 +5,6 @@
     {"predicate": {"custom_model_data": 2}, "model": "custom:hats/players/sombrero"},
     {"predicate": {"custom_model_data": 3}, "model": "custom:hats/players/mining_helmet"},
     {"predicate": {"custom_model_data": 4}, "model": "custom:hats/misc/flower_crown"},
-    {"predicate": {"custom_model_data": 5}, "model": "custom:misc/flat_cat"},
-
-    {"predicate": {"custom_model_data": 17}, "model": "custom:misc/creeper/creeper_walk_animation"},
-    {"predicate": {"custom_model_data": 18}, "model": "custom:misc/creeper/creeper_exploding_animation"},
-    {"predicate": {"custom_model_data": 19}, "model": "custom:misc/creeper/creeper_animated"},
-    {"predicate": {"custom_model_data": 20}, "model": "custom:misc/creeper/creeper"}
+    {"predicate": {"custom_model_data": 5}, "model": "custom:misc/flat_cat"}
   ]
 }
