@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"a": "block/black_wool",
-		"b": "custom:item/misc/flat_cat",
+		"b": "custom:item/misc/animal/flat_cat",
 		"c": "block/light_blue_wool",
 		"d": "block/pink_wool"
 	},
