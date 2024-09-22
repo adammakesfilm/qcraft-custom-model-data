@@ -374,23 +374,21 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [135, 0, -90],
-			"translation": [11.5, 3.5, 1.75],
-			"scale": [1.5, 1.5, 1.5]
+			"translation": [8, 4.75, 1.5]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [135, 0, 90],
-			"translation": [-11.5, 3.5, 1.75],
-			"scale": [1.5, 1.5, 1.5]
+			"rotation": [35, 0, -90],
+			"translation": [8, 4.75, 1.5]
 		},
 		"firstperson_righthand": {
-			"rotation": [135, 0, -90],
-			"translation": [11.5, 3.5, 1.75],
-			"scale": [1.5, 1.5, 1.5]
+			"rotation": [35, 0, 90],
+			"translation": [-7, 3.5, 1.75],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"firstperson_lefthand": {
 			"rotation": [135, 0, 90],
-			"translation": [-11.5, 3.5, 1.75],
-			"scale": [1.5, 1.5, 1.5]
+			"translation": [-7, 3.5, 1.75],
+			"scale": [0.8, 0.8, 0.8]
 		},
 		"ground": {
 			"rotation": [90, 0, 0],

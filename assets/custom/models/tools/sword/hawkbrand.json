@@ -290,12 +290,14 @@
 			"translation": [8, -9.5, 1.5]
 		},
 		"firstperson_righthand": {
-			"rotation": [45, 0, 90],
-			"translation": [-7.25, 5.5, 1.5]
+			"rotation": [35, 0, 90],
+			"translation": [-3.25, 5.5, 1.5],
+			"scale": [0.61, 0.61, 0.61]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-135, 0, -90],
-			"translation": [9.25, -2.25, -0.75]
+			"rotation": [135, 0, 90],
+			"translation": [-3.25, 5.5, 1.5],
+			"scale": [0.61, 0.61, 0.61]
 		},
 		"ground": {
 			"rotation": [90, 0, 0],
