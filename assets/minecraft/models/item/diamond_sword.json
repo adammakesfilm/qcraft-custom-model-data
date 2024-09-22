@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/diamond_sword"
   },
   "overrides": [
-        {"predicate": {"custom_model_data": 1},"model": "custom:tools/sword/frost_slayer"}
+        {"predicate": {"custom_model_data": 1},"model": "custom:tools/sword/frost_slayer"},
+        {"predicate": {"custom_model_data": 2},"model": "custom:tools/sword/truthseeker"},
+        {"predicate": {"custom_model_data": 3},"model": "custom:tools/sword/hawkbrand"}
   ]
 }
