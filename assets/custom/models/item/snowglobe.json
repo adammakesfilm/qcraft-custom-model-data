@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"b": "custom:item/misc/snowglobe/tow",
-		"c": "custom:item/misc/snowglobe/tox",
-		"d": "custom:item/misc/snowglobe/toy",
-		"e": "custom:item/misc/snowglobe/toz",
-		"f": "custom:item/misc/snowglobe/tov"
+		"b": "custom:item/item/snowglobe/snowglobe_b",
+		"c": "custom:item/item/snowglobe/snowglobe_c",
+		"d": "custom:item/item/snowglobe/snowglobe_d",
+		"e": "custom:item/item/snowglobe/snowglobe_e",
+		"f": "custom:item/item/snowglobe/snowglobe_f"
 	},
 	"elements": [
 		{

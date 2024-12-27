@@ -1,1 +1,1 @@
-{"parent":"minecraft:item/generated","textures":{"layer0":"custom:item/misc/armorstand_token"}}
+{"parent":"minecraft:item/generated","textures":{"layer0":"custom:item/item/armorstand_token"}}

@@ -27,6 +27,6 @@
         }
     },
 	"textures": {
-		"layer0": "custom:item/misc/allay_of_undying"
+		"layer0": "custom:item/item/allay_of_undying"
 	}
 }

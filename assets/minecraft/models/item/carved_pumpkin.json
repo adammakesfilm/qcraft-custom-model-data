@@ -5,8 +5,10 @@
     {"predicate": {"custom_model_data": 2}, "model": "custom:hats/players/sombrero"},
     {"predicate": {"custom_model_data": 3}, "model": "custom:hats/players/mining_helmet"},
     {"predicate": {"custom_model_data": 4}, "model": "custom:hats/misc/flower_crown"},
-    {"predicate": {"custom_model_data": 5}, "model": "custom:misc/animal/flat_cat"},
-    {"predicate": {"custom_model_data": 6}, "model": "custom:misc/animal/bee"},
-    {"predicate": {"custom_model_data": 7}, "model": "custom:misc/animal/bee_with_glasses"}
+    {"predicate": {"custom_model_data": 5}, "model": "custom:hats/misc/flat_cat"},
+    {"predicate": {"custom_model_data": 6}, "model": "custom:misc/christmas_sack"},
+    {"predicate": {"custom_model_data": 7}, "model": "custom:hats/misc/lower_glasses"},
+    {"predicate": {"custom_model_data": 8}, "model": "custom:hats/misc/pirate"},
+    {"predicate": {"custom_model_data": 9}, "model": "custom:hats/misc/royal_crown"}
   ]
 }
