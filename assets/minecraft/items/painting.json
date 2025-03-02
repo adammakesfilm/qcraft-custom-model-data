@@ -1,0 +1,362 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/painting"
+        },
+        "entries": [
+            {
+                "threshold": 629001,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/kebab"
+                }
+            },
+            {
+                "threshold": 629002,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/aztec"
+                }
+            },
+            {
+                "threshold": 629003,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/alban"
+                }
+            },
+            {
+                "threshold": 629004,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/aztec2"
+                }
+            },
+            {
+                "threshold": 629005,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/bomb"
+                }
+            },
+            {
+                "threshold": 629006,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/plant"
+                }
+            },
+            {
+                "threshold": 629007,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/wasteland"
+                }
+            },
+            {
+                "threshold": 629008,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/wanderer"
+                }
+            },
+            {
+                "threshold": 629009,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/graham"
+                }
+            },
+            {
+                "threshold": 629010,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/pool"
+                }
+            },
+            {
+                "threshold": 629011,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/courbet"
+                }
+            },
+            {
+                "threshold": 629012,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/sea"
+                }
+            },
+            {
+                "threshold": 629013,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/sunset"
+                }
+            },
+            {
+                "threshold": 629014,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/creebet"
+                }
+            },
+            {
+                "threshold": 629015,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/match"
+                }
+            },
+            {
+                "threshold": 629016,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/bust"
+                }
+            },
+            {
+                "threshold": 629017,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/stage"
+                }
+            },
+            {
+                "threshold": 629018,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/void"
+                }
+            },
+            {
+                "threshold": 629019,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/skull_and_roses"
+                }
+            },
+            {
+                "threshold": 629020,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/fighters"
+                }
+            },
+            {
+                "threshold": 629021,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/skeleton"
+                }
+            },
+            {
+                "threshold": 629022,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/donkey_kong"
+                }
+            },
+            {
+                "threshold": 629023,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/pointer"
+                }
+            },
+            {
+                "threshold": 629024,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/pigscene"
+                }
+            },
+            {
+                "threshold": 629025,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/burning_skull"
+                }
+            },
+            {
+                "threshold": 629026,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/wither"
+                }
+            },
+            {
+                "threshold": 629027,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/earth"
+                }
+            },
+            {
+                "threshold": 629028,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/wind"
+                }
+            },
+            {
+                "threshold": 629029,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/water"
+                }
+            },
+            {
+                "threshold": 629030,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/fire"
+                }
+            },
+            {
+                "threshold": 629031,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/meditative"
+                }
+            },
+            {
+                "threshold": 629032,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/prairie_ride"
+                }
+            },
+            {
+                "threshold": 629033,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/baroque"
+                }
+            },
+            {
+                "threshold": 629034,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/humble"
+                }
+            },
+            {
+                "threshold": 629035,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/endboss"
+                }
+            },
+            {
+                "threshold": 629036,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/tides"
+                }
+            },
+            {
+                "threshold": 629037,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/fern"
+                }
+            },
+            {
+                "threshold": 629038,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/sunflowers"
+                }
+            },
+            {
+                "threshold": 629039,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/cotan"
+                }
+            },
+            {
+                "threshold": 629040,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/owlemons"
+                }
+            },
+            {
+                "threshold": 629041,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/cavebird"
+                }
+            },
+            {
+                "threshold": 629042,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/bouquet"
+                }
+            },
+            {
+                "threshold": 629043,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/backyard"
+                }
+            },
+            {
+                "threshold": 629044,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/pond"
+                }
+            },
+            {
+                "threshold": 629045,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/passage"
+                }
+            },
+            {
+                "threshold": 629046,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/changing"
+                }
+            },
+            {
+                "threshold": 629047,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/finding"
+                }
+            },
+            {
+                "threshold": 629048,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/lowmist"
+                }
+            },
+            {
+                "threshold": 629049,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/unpacked"
+                }
+            },
+            {
+                "threshold": 629050,
+                "model": {
+                    "type": "model",
+                    "model": "item/painting/orb"
+                }
+            }
+        ]
+    }
+}

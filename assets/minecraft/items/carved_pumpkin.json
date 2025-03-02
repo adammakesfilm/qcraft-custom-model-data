@@ -1,0 +1,75 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:block/carved_pumpkin"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hats/players/rubberduck"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hats/players/sombrero"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hats/players/mining_helmet"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hats/misc/flower_crown"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hats/misc/flat_cat"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "custom:misc/christmas_sack"
+                }
+            },
+            {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hats/misc/lower_glasses"
+                }
+            },
+            {
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hats/misc/pirate"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "custom:hats/misc/royal_crown"
+                }
+            }
+        ]
+    }
+}

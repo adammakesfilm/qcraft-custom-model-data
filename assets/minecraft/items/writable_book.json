@@ -1,0 +1,47 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/writable_book"
+        },
+        "entries": [
+            {
+                "threshold": 1,
+                "model": {
+                    "type": "model",
+                    "model": "custom:book/dark_book_writable"
+                }
+            },
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "custom:book/diamond_book_writable"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "custom:book/magic_book_writable"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "custom:book/nature_book_writable"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "custom:book/redstone_book_writable"
+                }
+            }
+        ]
+    }
+}
